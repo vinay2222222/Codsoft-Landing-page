@@ -35,17 +35,16 @@ git clone https://github.com/vinay2222222/Codsoft-Landing-page.git
 cd Codsoft-Landing-page
 
 3. Open index.html in your preferred browser.
-
-📁 Project Structure
+## 📁 Project Structure
 Codsoft-Landing-page/
 │
 ├── index.html         # Main HTML structure
 ├── style.css          # Styling for layout and responsiveness
 └── assets/            # (Optional) Images or other static files
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Vinay A – GitHub Profile
-📄 License
+## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 ---
 👍 If you liked this project, consider giving it a ⭐ on GitHub!
