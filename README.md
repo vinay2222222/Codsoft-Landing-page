@@ -15,14 +15,6 @@ A modern and responsive landing page designed as part of the **CodSoft Internshi
 - **HTML5** – Page structure
 - **CSS3** – Styling and layout responsiveness
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
-> Add screenshots in a folder named `screenshots/` in your repo to showcase your design.
-
 ## 🚀 Getting Started
 
 To view or edit the landing page locally:
